@@ -2,8 +2,9 @@ import os
 import json
 
 # === CONFIGURATION ===
-INPUT_FOLDER = "data/Standard"  # Change to your target folder
-OUTPUT_FILE = "combined_decklists.json"
+FORMAT = "Standard" # Change to your target format
+INPUT_FOLDER = f"data/{FORMAT}"
+OUTPUT_FILE = f"data/{FORMAT}/combined_{FORMAT}.json"
 
 combined_entries = []
 

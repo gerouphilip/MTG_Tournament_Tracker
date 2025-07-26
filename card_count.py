@@ -10,7 +10,8 @@ def extract_card_counts(decklist_text):
     lines = decklist_text.replace("\\n", "\n").split("\n")
 
     for line in lines:
-        line = line.strip()
+        line = line.replace("\\", "").strip()
+
         if not line or line.startswith("~~"):
             continue
         match = re.match(r"^(\d+)\s+(.+?)$", line)
@@ -37,30 +38,32 @@ def process_json_file(json_path):
 
 def main():
     for subfolder in os.listdir(DATA_DIR):
-        subfolder_path = os.path.join(DATA_DIR, subfolder)
-        if not os.path.isdir(subfolder_path):
-            continue
+        if subfolder.startswith("Standard"):
 
-        input_filename = f"combined_{subfolder}.json"
-        input_path = os.path.join(subfolder_path, input_filename)
+            subfolder_path = os.path.join(DATA_DIR, subfolder)
+            if not os.path.isdir(subfolder_path):
+                continue
 
-        if not os.path.exists(input_path):
-            print(f"❌ Skipping {subfolder}: file {input_filename} not found")
-            continue
+            input_filename = f"combined_{subfolder}.json"
+            input_path = os.path.join(subfolder_path, input_filename)
 
-        print(f"📦 Processing {input_filename}...")
+            if not os.path.exists(input_path):
+                print(f"❌ Skipping {subfolder}: file {input_filename} not found")
+                continue
 
-        card_counts = process_json_file(input_path)
+            print(f"📦 Processing {input_filename}...")
 
-        sorted_counts = dict(sorted(card_counts.items(), key=lambda x: x[1], reverse=True))
+            card_counts = process_json_file(input_path)
 
-        output_filename = f"cardcount_{subfolder}.json"
-        output_path = os.path.join(subfolder_path, output_filename)
+            sorted_counts = dict(sorted(card_counts.items(), key=lambda x: x[1], reverse=True))
 
-        with open(output_path, "w", encoding="utf-8") as f:
-            json.dump(sorted_counts, f, indent=2)
+            output_filename = f"cardcount_{subfolder}.json"
+            output_path = os.path.join(subfolder_path, output_filename)
 
-        print(f"✅ Saved to {output_filename}\n")
+            with open(output_path, "w", encoding="utf-8") as f:
+                json.dump(sorted_counts, f, indent=2)
+
+            print(f"✅ Saved to {output_filename}\n")
 
 if __name__ == "__main__":
     main()
