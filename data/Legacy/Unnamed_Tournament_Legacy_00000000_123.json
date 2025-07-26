@@ -1,0 +1,39 @@
+{
+  "tournament_name": "Unnamed Tournament 123",
+  "format": "Legacy",
+  "date": "Unknown Date",
+  "top_8": [
+    {
+      "rank": 1,
+      "decklist": "~~Mainboard~~\\n4 Allosaurus Shepherd\\n1 Atraxa, Grand Unifier\\n2 Bayou\\n2 Birchlore Rangers\\n2 Boseiju, Who Endures\\n1 Craterhoof Behemoth\\n2 Dryad Arbor\\n3 Eladamri, Korvecdal\\n1 Elvish Visionary\\n1 Forest\\n4 Gaea\\'s Cradle\\n4 Glimpse of Nature\\n4 Green Sun\\'s Zenith\\n1 Grist, the Hunger Tide\\n4 Heritage Druid\\n3 Natural Order\\n4 Nettle Sentinel\\n3 Once Upon a Time\\n2 Quirion Ranger\\n1 Snow-Covered Forest\\n3 Verdant Catacombs\\n3 Windswept Heath\\n4 Wirewood Symbiote\\n1 Yavimaya, Cradle of Growth\\n\\n~~Sideboard~~\\n3 Abrupt Decay\\n1 Assassin\\'s Trophy\\n1 Choke\\n1 Collector Ouphe\\n1 Disruptor Flute\\n4 Endurance\\n2 Force of Vigor\\n1 Keen-Eyed Curator\\n1 Reclamation Sage\\n"
+    },
+    {
+      "rank": 2,
+      "decklist": "~~Mainboard~~\\n4 Brainstorm\\n1 Cabal Ritual\\n1 Cavern of Souls\\n1 Consider\\n4 Dark Ritual\\n3 Daze\\n4 Doomsday\\n2 Edge of Autumn\\n2 Flooded Strand\\n4 Force of Will\\n1 Island\\n1 Jace, Wielder of Mysteries\\n1 Lion\\'s Eye Diamond\\n4 Lotus Petal\\n2 Misty Rainforest\\n1 Personal Tutor\\n4 Polluted Delta\\n4 Ponder\\n1 Street Wraith\\n1 Swamp\\n2 Teferi, Time Raveler\\n2 Thassa\\'s Oracle\\n2 The One Ring\\n2 Thoughtseize\\n2 Tundra\\n1 Undercity Sewers\\n3 Underground Sea\\n\\n~~Sideboard~~\\n2 Barrowgoyf\\n2 Force of Negation\\n2 Grafdigger\\'s Cage\\n1 Long Goodbye\\n2 Murktide Regent\\n2 Orcish Bowmasters\\n1 Sheoldred, the Apocalypse\\n3 Swords to Plowshares\\n"
+    },
+    {
+      "rank": 3,
+      "decklist": "~~Mainboard~~\\n1 Animate Dead\\n1 Archon of Cruelty\\n1 Atraxa, Grand Unifier\\n1 Bloodstained Mire\\n4 Brainstorm\\n2 Brazen Borrower // Petty Theft\\n3 Daze\\n4 Entomb\\n4 Force of Will\\n1 Island\\n2 Misty Rainforest\\n3 Murktide Regent\\n2 Orcish Bowmasters\\n4 Polluted Delta\\n4 Ponder\\n4 Reanimate\\n1 Scalding Tarn\\n1 Swamp\\n4 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar\\n4 Thoughtseize\\n2 Undercity Sewers\\n3 Underground Sea\\n1 Verdant Catacombs\\n3 Wasteland\\n\\n~~Sideboard~~\\n3 Barrowgoyf\\n1 Bitter Triumph\\n2 Consign to Memory\\n3 Dauthi Voidwalker\\n1 Engineered Explosives\\n3 Fatal Push\\n2 Force of Negation\\n"
+    },
+    {
+      "rank": 4,
+      "decklist": "~~Mainboard~~\\n2 Barrowgoyf\\n1 Bitter Triumph\\n1 Bloodstained Mire\\n4 Brainstorm\\n2 Brazen Borrower\\n3 Daze\\n4 Fatal Push\\n4 Force of Will\\n1 Island\\n2 Kaito, Bane of Nightmares\\n1 Marsh Flats\\n4 Nethergoyf\\n2 Nihil Spellbomb\\n3 Orcish Bowmasters\\n4 Polluted Delta\\n4 Ponder\\n2 Scalding Tarn\\n1 Swamp\\n3 Tamiyo, Inquisitive Student\\n3 Thoughtseize\\n1 Undercity Sewers\\n4 Underground Sea\\n4 Wasteland\\n\\n~~Sideboard~~\\n1 Bitter Triumph\\n2 Blue Elemental Blast\\n2 Consign to Memory\\n1 Disruptor Flute\\n1 Engineered Explosives\\n2 Faerie Macabre\\n2 Force of Negation\\n2 Harbinger of the Seas\\n2 Null Rod\\n"
+    },
+    {
+      "rank": 5,
+      "decklist": "~~Mainboard~~\\n4 Ancient Tomb\\n1 Basalt Monolith\\n1 Candelabra of Tawnos\\n1 Expedition Map\\n3 Glaring Fleshraker\\n4 Grim Monolith\\n4 Karn, the Great Creator\\n4 Kozilek\\'s Command\\n4 Lotus Petal\\n3 Manifold Key\\n1 Mox Opal\\n2 Mystic Forge\\n1 Pithing Needle\\n4 Planar Nexus\\n3 Tezzeret, Cruel Captain\\n4 The One Ring\\n1 Tormod\\'s Crypt\\n2 Ugin, Eye of the Storms\\n4 Urza\\'s Saga\\n4 Urza\\'s Tower\\n4 Urza\\'s Workshop\\n1 Voltaic Key\\n\\n~~Sideboard~~\\n2 Argentum Masticore\\n1 Dismember\\n2 Disruptor Flute\\n1 Ensnaring Bridge\\n1 Faerie Macabre\\n1 Liquimetal Coating\\n1 Mycosynth Lattice\\n1 Paradox Engine\\n1 Perilous Snare\\n1 Portable Hole\\n1 Soul-Guide Lantern\\n1 Tormod\\'s Crypt\\n1 Wastescape Battlemage\\n"
+    },
+    {
+      "rank": 6,
+      "decklist": "~~Mainboard~~\\n4 Ancient Tomb\\n4 Blood Moon\\n4 Broadside Bombardiers\\n4 Chalice of the Void\\n4 Chrome Mox\\n4 City of Traitors\\n4 Fable of the Mirror-Breaker\\n2 Fury\\n1 Lavaspur Boots\\n2 Magus of the Moon\\n2 Mountain\\n4 Pyrogoyf\\n2 Shatterskull Smashing\\n4 Simian Spirit Guide\\n1 Soul-Guide Lantern\\n4 Sundering Eruption\\n4 The One Ring\\n2 Unlicensed Hearse\\n4 Urza\\'s Saga\\n\\n~~Sideboard~~\\n3 Disruptor Flute\\n3 Faerie Macabre\\n3 Fiery Confluence\\n2 Fury\\n1 Pithing Needle\\n2 Pyroblast\\n1 Shadowspear\\n"
+    },
+    {
+      "rank": 7,
+      "decklist": "~~Mainboard~~\\n4 Ancient Tomb\\n1 Basalt Monolith\\n1 Candelabra of Tawnos\\n4 Glaring Fleshraker\\n4 Grim Monolith\\n4 Karn, the Great Creator\\n4 Kozilek\\'s Command\\n4 Lotus Petal\\n4 Manifold Key\\n1 Mox Opal\\n2 Mystic Forge\\n1 Pithing Needle\\n4 Planar Nexus\\n1 Soul-Guide Lantern\\n4 The One Ring\\n3 Ugin, Eye of the Storms\\n4 Urza\\'s Saga\\n4 Urza\\'s Tower\\n4 Urza\\'s Workshop\\n2 Voltaic Key\\n\\n~~Sideboard~~\\n2 Dismember\\n2 Disruptor Flute\\n1 Ensnaring Bridge\\n4 Leyline of the Void\\n1 Liquimetal Coating\\n1 Mycosynth Lattice\\n1 Mystic Forge\\n1 Paradox Engine\\n1 Perilous Snare\\n1 Tormod\\'s Crypt\\n"
+    },
+    {
+      "rank": 8,
+      "decklist": "~~Mainboard~~\\n1 Animate Dead\\n1 Archon of Cruelty\\n1 Atraxa, Grand Unifier\\n1 Bloodstained Mire\\n4 Brainstorm\\n1 Brazen Borrower // Petty Theft\\n4 Daze\\n4 Entomb\\n2 Fatal Push\\n2 Flooded Strand\\n4 Force of Will\\n1 Island\\n1 Marsh Flats\\n3 Murktide Regent\\n4 Polluted Delta\\n4 Ponder\\n4 Reanimate\\n1 Scalding Tarn\\n1 Swamp\\n4 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar\\n4 Thoughtseize\\n2 Undercity Sewers\\n3 Underground Sea\\n3 Wasteland\\n\\n~~Sideboard~~\\n2 Brazen Borrower // Petty Theft\\n3 Engineered Explosives\\n1 Fatal Push\\n3 Force of Negation\\n1 Go for the Throat\\n2 Inquisition of Kozilek\\n2 Null Rod\\n1 Pithing Needle\\n"
+    }
+  ]
+}

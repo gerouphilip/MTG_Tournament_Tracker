@@ -1,0 +1,39 @@
+{
+  "tournament_name": "Unnamed Tournament 001",
+  "format": "Standard",
+  "date": "Unknown Date",
+  "top_8": [
+    {
+      "rank": 1,
+      "decklist": "https://manabox.app/decks/v4qKa802RfSFcFOwm-07Qw"
+    },
+    {
+      "rank": 2,
+      "decklist": "https://www.moxfield.com/decks/dyV7qmcTtUm42VjZaDhOlw"
+    },
+    {
+      "rank": 3,
+      "decklist": "https://www.moxfield.com/decks/sE4UyxfZj0WKhWNH1W7lnw"
+    },
+    {
+      "rank": 4,
+      "decklist": "https://www.mtggoldfish.com/deck/6422065"
+    },
+    {
+      "rank": 5,
+      "decklist": "https://www.moxfield.com/decks/fc45sWgTW0ycKZO4gm-gJA"
+    },
+    {
+      "rank": 6,
+      "decklist": "https://www.moxfield.com/decks/DTx9L52H0Ee-NLomMKLHvw"
+    },
+    {
+      "rank": 7,
+      "decklist": "https://www.moxfield.com/decks/pRFtTJAsHkCvZQ1bJVPcuA"
+    },
+    {
+      "rank": 8,
+      "decklist": "https://www.moxfield.com/decks/RrfaHlteikyi9ZGiNjQVCQ"
+    }
+  ]
+}
