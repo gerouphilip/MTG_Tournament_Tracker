@@ -11,3 +11,4 @@ selenium
 wordcloud
 Pillow
 squarify
+requests
