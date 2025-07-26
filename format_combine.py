@@ -2,13 +2,16 @@ import os
 import json
 
 # === CONFIGURATION ===
-INPUT_FOLDER = "data/Canadian Highlander"  # Change to your target folder
+INPUT_FOLDER = "data/Standard"  # Change to your target folder
 OUTPUT_FILE = "combined_decklists.json"
 
 combined_entries = []
 
 # Traverse all JSON files in the folder
 for filename in os.listdir(INPUT_FOLDER):
+    if filename.startswith("cardcount") or (filename.startswith("combined")):
+        continue
+
     if filename.endswith(".json"):
         filepath = os.path.join(INPUT_FOLDER, filename)
         with open(filepath, "r", encoding="utf-8") as f:

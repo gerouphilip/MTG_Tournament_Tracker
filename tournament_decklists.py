@@ -85,6 +85,7 @@ if response.status_code == 200:
 
         for i, player in enumerate(standings, start=1):
             deck = player.get("decklist")
+
             if deck:  # non-null and non-empty
                 has_valid_decklist = True
 

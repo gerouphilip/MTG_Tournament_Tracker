@@ -9,6 +9,6 @@ base_url = "https://topdeck.gg/api"
 
 
 
-def get_deck_list(event)
+def get_deck_list(event):
     pass
 
