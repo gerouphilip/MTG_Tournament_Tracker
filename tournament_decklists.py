@@ -25,7 +25,7 @@ while True:
         TOURNAMENT_FORMAT = user_input
         break
     else:
-        print("❌ Invalid format. Please try again and type exactly as shown.")8
+        print("❌ Invalid format. Please try again and type exactly as shown.")
 
 # Create output directory if it doesn't exist
 OUTPUT_DIR = os.path.join("data", TOURNAMENT_FORMAT)
@@ -40,12 +40,12 @@ headers = {
 url = "https://topdeck.gg/api/v2/tournaments"
 
 payload = {
-    "last": 300,
+    "last": 1000,
     "game": "Magic: The Gathering",
     "format": TOURNAMENT_FORMAT,
     "participantMin": 8,
     "columns": ["decklist"],
-    "rounds": True
+    "rounds": False
 }
 
 # === Make API Call ===
