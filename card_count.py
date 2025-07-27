@@ -2,8 +2,8 @@ import os
 import json
 import re
 from collections import defaultdict
+from constants import DATA_DIR
 
-DATA_DIR = "data"
 
 def extract_card_counts(decklist_text):
     card_counts = defaultdict(int)

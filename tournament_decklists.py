@@ -2,17 +2,10 @@ import os
 import requests
 import json
 import re
+from constants import SUPPORTED_FORMATS
 
 # === Configuration ===
 API_KEY = "e5287194-938e-4c24-958d-90c5d6f6890d"
-
-
-# === Supported Formats ===
-SUPPORTED_FORMATS = [
-    "EDH", "Pauper EDH", "Standard", "Pioneer", "Modern", "Legacy", "Pauper", "Vintage", "Premodern",
-    "Sealed", "Limited", "Duel Commander", "Old School 93/94", "Canadian Highlander", "Tiny Leaders",
-    "EDH Draft", "Timeless", "Historic", "Explorer", "7pt Highlander", "Oathbreaker"
-]
 
 def call_api(payload, output_dir):
     headers = {
@@ -92,6 +85,6 @@ def get_decklists_for_all_formats():
 
         call_api(payload, output_dir)
 
-    # ---- Entry Point ----
+# ---- Entry Point ----
 if __name__ == "__main__":
     get_decklists_for_all_formats()
