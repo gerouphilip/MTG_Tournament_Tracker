@@ -1,0 +1,1891 @@
+{
+  "Arid Mesa": {
+    "name": "Arid Mesa",
+    "image_uris": "https://cards.scryfall.io/normal/front/2/5/25ac5405-df7b-4097-914a-022cb18e20d4.jpg?1738703645",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "colors": [],
+    "color_identity": [],
+    "rarity": "rare",
+    "type_line": "Land",
+    "count": 12
+  },
+  "Eldrazi Temple": {
+    "name": "Eldrazi Temple",
+    "image_uris": "https://cards.scryfall.io/normal/front/c/b/cbab7e1f-305e-4733-aa70-b27285740925.jpg?1690006046",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "colors": [],
+    "color_identity": [],
+    "rarity": "uncommon",
+    "type_line": "Land",
+    "count": 8
+  },
+  "Kozilek's Command": {
+    "name": "Kozilek's Command",
+    "image_uris": "https://cards.scryfall.io/normal/front/9/2/92585587-cfdc-406a-9114-4f6dd8802c37.jpg?1740308391",
+    "mana_cost": "{X}{C}{C}",
+    "cmc": 2.0,
+    "colors": [],
+    "color_identity": [],
+    "rarity": "rare",
+    "type_line": "Kindred Instant — Eldrazi",
+    "count": 8
+  },
+  "Ugin's Labyrinth": {
+    "name": "Ugin's Labyrinth",
+    "image_uris": "https://cards.scryfall.io/normal/front/0/2/020e1348-1a35-4cc8-bad6-9fbddfa79277.jpg?1717013086",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "colors": [],
+    "color_identity": [],
+    "rarity": "mythic",
+    "type_line": "Land",
+    "count": 8
+  },
+  "Solitude": {
+    "name": "Solitude",
+    "image_uris": "https://cards.scryfall.io/normal/front/4/7/47a6234f-309f-4e03-9263-66da48b57153.jpg?1749301975",
+    "mana_cost": "{3}{W}{W}",
+    "cmc": 5.0,
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "rarity": "mythic",
+    "type_line": "Creature — Elemental Incarnation",
+    "count": 8
+  },
+  "Galvanic Discharge": {
+    "name": "Galvanic Discharge",
+    "image_uris": "https://cards.scryfall.io/normal/front/3/2/32aa6e33-221f-414c-9b51-850d97a7e051.jpg?1717012186",
+    "mana_cost": "{R}",
+    "cmc": 1.0,
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "rarity": "common",
+    "type_line": "Instant",
+    "count": 8
+  },
+  "Phlage, Titan of Fire's Fury": {
+    "name": "Phlage, Titan of Fire's Fury",
+    "image_uris": "https://cards.scryfall.io/normal/front/e/4/e419cd0b-2449-4cc5-9ead-b9e45e271700.jpg?1717012789",
+    "mana_cost": "{1}{R}{W}",
+    "cmc": 3.0,
+    "colors": [
+      "R",
+      "W"
+    ],
+    "color_identity": [
+      "R",
+      "W"
+    ],
+    "rarity": "mythic",
+    "type_line": "Legendary Creature — Elder Giant",
+    "count": 8
+  },
+  "Thundertrap Trainer": {
+    "name": "Thundertrap Trainer",
+    "image_uris": "https://cards.scryfall.io/normal/front/9/c/9cf3af94-b7c8-415c-a5a1-d89967fd0bba.jpg?1721426312",
+    "mana_cost": "{1}{U}",
+    "cmc": 2.0,
+    "colors": [
+      "U"
+    ],
+    "color_identity": [
+      "U"
+    ],
+    "rarity": "rare",
+    "type_line": "Creature — Otter Wizard",
+    "count": 8
+  },
+  "Thought-Knot Seer": {
+    "name": "Thought-Knot Seer",
+    "image_uris": "https://cards.scryfall.io/normal/front/b/f/bffc360e-db41-48f3-9365-680d55046e04.jpg?1562933598",
+    "mana_cost": "{3}{C}",
+    "cmc": 4.0,
+    "colors": [],
+    "color_identity": [],
+    "rarity": "rare",
+    "type_line": "Creature — Eldrazi",
+    "count": 7
+  },
+  "Marsh Flats": {
+    "name": "Marsh Flats",
+    "image_uris": "https://cards.scryfall.io/normal/front/9/d/9db3ba6d-eb7f-4f5b-9a3b-c6239c3baa42.jpg?1738703598",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "colors": [],
+    "color_identity": [],
+    "rarity": "rare",
+    "type_line": "Land",
+    "count": 7
+  },
+  "Wrath of the Skies": {
+    "name": "Wrath of the Skies",
+    "image_uris": "https://cards.scryfall.io/normal/front/4/e/4ef1882e-b422-4f30-8a6c-bd71c2601660.jpg?1717011598",
+    "mana_cost": "{X}{W}{W}",
+    "cmc": 2.0,
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "rarity": "rare",
+    "type_line": "Sorcery",
+    "count": 7
+  },
+  "Consign to Memory": {
+    "name": "Consign to Memory",
+    "image_uris": "https://cards.scryfall.io/normal/front/b/c/bc95af55-d1dd-4fe6-adb0-3ad6db20d986.jpg?1717011640",
+    "mana_cost": "{U}",
+    "cmc": 1.0,
+    "colors": [
+      "U"
+    ],
+    "color_identity": [
+      "U"
+    ],
+    "rarity": "uncommon",
+    "type_line": "Instant",
+    "count": 7
+  },
+  "Chalice of the Void": {
+    "name": "Chalice of the Void",
+    "image_uris": "https://cards.scryfall.io/normal/front/1/f/1f0d2e8e-c8f2-4b31-a6ba-6283fc8740d4.jpg?1562433485",
+    "mana_cost": "{X}{X}",
+    "cmc": 0.0,
+    "colors": [],
+    "color_identity": [],
+    "rarity": "mythic",
+    "type_line": "Artifact",
+    "count": 6
+  },
+  "Devourer of Destiny": {
+    "name": "Devourer of Destiny",
+    "image_uris": "https://cards.scryfall.io/normal/front/5/6/560debcd-feb4-4534-991e-a7aa1cca2409.jpg?1740308386",
+    "mana_cost": "{5}{C}{C}",
+    "cmc": 7.0,
+    "colors": [],
+    "color_identity": [],
+    "rarity": "rare",
+    "type_line": "Creature — Eldrazi",
+    "count": 6
+  },
+  "Sire of Seven Deaths": {
+    "name": "Sire of Seven Deaths",
+    "image_uris": "https://cards.scryfall.io/normal/front/8/d/8d8432a7-1c8a-4cfb-947c-ecf9791063eb.jpg?1730657490",
+    "mana_cost": "{7}",
+    "cmc": 7.0,
+    "colors": [],
+    "color_identity": [],
+    "rarity": "mythic",
+    "type_line": "Creature — Eldrazi",
+    "count": 6
+  },
+  "Flooded Strand": {
+    "name": "Flooded Strand",
+    "image_uris": "https://cards.scryfall.io/normal/front/8/f/8f85e12c-196b-4459-b81f-0c9c854e9f57.jpg?1717012985",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "colors": [],
+    "color_identity": [],
+    "rarity": "rare",
+    "type_line": "Land",
+    "count": 6
+  },
+  "Dismember": {
+    "name": "Dismember",
+    "image_uris": "https://cards.scryfall.io/normal/front/3/d/3d286cf6-3e16-4941-9326-1818b1e06d69.jpg?1562261132",
+    "mana_cost": "{1}{B/P}{B/P}",
+    "cmc": 3.0,
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "rarity": "uncommon",
+    "type_line": "Instant",
+    "count": 5
+  },
+  "Plains": {
+    "name": "Plains",
+    "image_uris": "https://cards.scryfall.io/normal/front/1/1/1164f7ec-7b2f-4cc9-90bb-7eaaa331b4cd.jpg?1753472168",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "colors": [],
+    "color_identity": [
+      "W"
+    ],
+    "rarity": "common",
+    "type_line": "Basic Land — Plains",
+    "count": 5
+  },
+  "Cavern of Souls": {
+    "name": "Cavern of Souls",
+    "image_uris": "https://cards.scryfall.io/normal/front/3/a/3aad15a2-8a1b-4460-9b06-e85863081878.jpg?1706884128",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "colors": [],
+    "color_identity": [],
+    "rarity": "mythic",
+    "type_line": "Land",
+    "count": 4
+  },
+  "Eldrazi Linebreaker": {
+    "name": "Eldrazi Linebreaker",
+    "image_uris": "https://cards.scryfall.io/normal/front/f/6/f67774a1-f5f8-4b7b-871d-88a1b5e57d27.jpg?1717012147",
+    "mana_cost": "{1}{C}{R}",
+    "cmc": 3.0,
+    "colors": [],
+    "color_identity": [
+      "R"
+    ],
+    "rarity": "rare",
+    "type_line": "Creature — Eldrazi",
+    "count": 4
+  },
+  "Glaring Fleshraker": {
+    "name": "Glaring Fleshraker",
+    "image_uris": "https://cards.scryfall.io/normal/front/8/0/80c2a3c7-1486-4ff9-88ec-79ec67a437f8.jpg?1717011246",
+    "mana_cost": "{2}{C}",
+    "cmc": 3.0,
+    "colors": [],
+    "color_identity": [],
+    "rarity": "uncommon",
+    "type_line": "Creature — Eldrazi Drone",
+    "count": 4
+  },
+  "It That Heralds the End": {
+    "name": "It That Heralds the End",
+    "image_uris": "https://cards.scryfall.io/normal/front/c/8/c8c47679-0fac-466f-be3c-794f23576e55.jpg?1717011262",
+    "mana_cost": "{1}{C}",
+    "cmc": 2.0,
+    "colors": [],
+    "color_identity": [],
+    "rarity": "uncommon",
+    "type_line": "Creature — Eldrazi Drone",
+    "count": 4
+  },
+  "Mountain": {
+    "name": "Mountain",
+    "image_uris": "https://cards.scryfall.io/normal/front/b/0/b044630d-50e7-431b-8e91-bd53e967f594.jpg?1753472303",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "colors": [],
+    "color_identity": [
+      "R"
+    ],
+    "rarity": "common",
+    "type_line": "Basic Land — Mountain",
+    "count": 4
+  },
+  "Ugin, Eye of the Storms": {
+    "name": "Ugin, Eye of the Storms",
+    "image_uris": "https://cards.scryfall.io/normal/front/6/4/64a5d494-efa1-446b-bebe-2ad36e154376.jpg?1744102946",
+    "mana_cost": "{7}",
+    "cmc": 7.0,
+    "colors": [],
+    "color_identity": [],
+    "rarity": "mythic",
+    "type_line": "Legendary Planeswalker — Ugin",
+    "count": 4
+  },
+  "Unclaimed Territory": {
+    "name": "Unclaimed Territory",
+    "image_uris": "https://cards.scryfall.io/normal/front/e/7/e7bd3aaa-864c-4cbb-bbab-68d87c824e3d.jpg?1698988658",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "colors": [],
+    "color_identity": [],
+    "rarity": "uncommon",
+    "type_line": "Land",
+    "count": 4
+  },
+  "Wastescape Battlemage": {
+    "name": "Wastescape Battlemage",
+    "image_uris": "https://cards.scryfall.io/normal/front/6/b/6bc119b8-429c-4ab6-adba-b65b03810e98.jpg?1717100499",
+    "mana_cost": "{1}{C}",
+    "cmc": 2.0,
+    "colors": [],
+    "color_identity": [
+      "G",
+      "U"
+    ],
+    "rarity": "uncommon",
+    "type_line": "Creature — Eldrazi Wizard",
+    "count": 4
+  },
+  "Writhing Chrysalis": {
+    "name": "Writhing Chrysalis",
+    "image_uris": "https://cards.scryfall.io/normal/front/f/5/f54dbeb1-51f8-40e2-912a-ec25457de5a2.jpg?1717012884",
+    "mana_cost": "{2}{R}{G}",
+    "cmc": 4.0,
+    "colors": [],
+    "color_identity": [
+      "G",
+      "R"
+    ],
+    "rarity": "common",
+    "type_line": "Creature — Eldrazi Drone",
+    "count": 4
+  },
+  "All Is Dust": {
+    "name": "All Is Dust",
+    "image_uris": "https://cards.scryfall.io/normal/front/4/2/4210c54e-89fd-4971-ab6a-ca8f4e7fe97a.jpg?1691924662",
+    "mana_cost": "{7}",
+    "cmc": 7.0,
+    "colors": [],
+    "color_identity": [],
+    "rarity": "mythic",
+    "type_line": "Kindred Sorcery — Eldrazi",
+    "count": 4
+  },
+  "Disruptor Flute": {
+    "name": "Disruptor Flute",
+    "image_uris": "https://cards.scryfall.io/normal/front/5/c/5cad8671-4761-4014-a8a3-af45627e6e79.jpg?1717470370",
+    "mana_cost": "{2}",
+    "cmc": 2.0,
+    "colors": [],
+    "color_identity": [],
+    "rarity": "rare",
+    "type_line": "Artifact",
+    "count": 4
+  },
+  "Emperor of Bones": {
+    "name": "Emperor of Bones",
+    "image_uris": "https://cards.scryfall.io/normal/front/d/f/df9d9075-2d1e-4848-b661-816d539e05eb.jpg?1749301974",
+    "mana_cost": "{1}{B}",
+    "cmc": 2.0,
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "rarity": "rare",
+    "type_line": "Creature — Skeleton Noble",
+    "count": 4
+  },
+  "Fatal Push": {
+    "name": "Fatal Push",
+    "image_uris": "https://cards.scryfall.io/normal/front/6/e/6e9d8fe4-fd9b-4923-92bf-7dd6b8fa02e7.jpg?1598304715",
+    "mana_cost": "{B}",
+    "cmc": 1.0,
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "rarity": "uncommon",
+    "type_line": "Instant",
+    "count": 4
+  },
+  "Flickerwisp": {
+    "name": "Flickerwisp",
+    "image_uris": "https://cards.scryfall.io/normal/front/f/6/f6cccf30-2025-49bb-9b1e-240bbef03f27.jpg?1673146975",
+    "mana_cost": "{1}{W}{W}",
+    "cmc": 3.0,
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "rarity": "uncommon",
+    "type_line": "Creature — Elemental",
+    "count": 4
+  },
+  "Overlord of the Balemurk": {
+    "name": "Overlord of the Balemurk",
+    "image_uris": "https://cards.scryfall.io/normal/front/9/b/9b911653-7b96-4cf3-a907-13c5c53a14f7.jpg?1726286269",
+    "mana_cost": "{3}{B}{B}",
+    "cmc": 5.0,
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "rarity": "mythic",
+    "type_line": "Enchantment Creature — Avatar Horror",
+    "count": 4
+  },
+  "Phelia, Exuberant Shepherd": {
+    "name": "Phelia, Exuberant Shepherd",
+    "image_uris": "https://cards.scryfall.io/normal/front/5/5/55707746-da6e-46e5-a5ca-7ac843fdc38e.jpg?1717011522",
+    "mana_cost": "{1}{W}",
+    "cmc": 2.0,
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "rarity": "rare",
+    "type_line": "Legendary Creature — Dog",
+    "count": 4
+  },
+  "Thoughtseize": {
+    "name": "Thoughtseize",
+    "image_uris": "https://cards.scryfall.io/normal/front/b/2/b281a308-ab6b-47b6-bec7-632c9aaecede.jpg?1599706001",
+    "mana_cost": "{B}",
+    "cmc": 1.0,
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "rarity": "rare",
+    "type_line": "Sorcery",
+    "count": 4
+  },
+  "Witch Enchanter // Witch-Blessed Meadow": {
+    "name": "Witch Enchanter // Witch-Blessed Meadow",
+    "image_uris": null,
+    "mana_cost": null,
+    "cmc": 4.0,
+    "colors": null,
+    "color_identity": [
+      "W"
+    ],
+    "rarity": "uncommon",
+    "type_line": "Creature — Human Warlock // Land",
+    "count": 4
+  },
+  "Clarion Conqueror": {
+    "name": "Clarion Conqueror",
+    "image_uris": "https://cards.scryfall.io/normal/front/f/8/f892d156-371c-4391-8ae6-25513c5032b0.jpg?1743203973",
+    "mana_cost": "{2}{W}",
+    "cmc": 3.0,
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "rarity": "rare",
+    "type_line": "Creature — Dragon",
+    "count": 4
+  },
+  "High Noon": {
+    "name": "High Noon",
+    "image_uris": "https://cards.scryfall.io/normal/front/9/9/9995e0e6-7c9c-4fef-8fd2-8fb1622e6ec8.jpg?1712355285",
+    "mana_cost": "{1}{W}",
+    "cmc": 2.0,
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "R",
+      "W"
+    ],
+    "rarity": "rare",
+    "type_line": "Enchantment",
+    "count": 4
+  },
+  "Ajani, Nacatl Pariah // Ajani, Nacatl Avenger": {
+    "name": "Ajani, Nacatl Pariah // Ajani, Nacatl Avenger",
+    "image_uris": null,
+    "mana_cost": null,
+    "cmc": 2.0,
+    "colors": null,
+    "color_identity": [
+      "R",
+      "W"
+    ],
+    "rarity": "mythic",
+    "type_line": "Legendary Creature — Cat Warrior // Legendary Planeswalker — Ajani",
+    "count": 4
+  },
+  "Arena of Glory": {
+    "name": "Arena of Glory",
+    "image_uris": "https://cards.scryfall.io/normal/front/d/d/dd148edc-9e43-41aa-bb50-f912115d3e72.jpg?1717047864",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "colors": [],
+    "color_identity": [
+      "R"
+    ],
+    "rarity": "rare",
+    "type_line": "Land",
+    "count": 4
+  },
+  "Guide of Souls": {
+    "name": "Guide of Souls",
+    "image_uris": "https://cards.scryfall.io/normal/front/7/6/76c3cad2-1e25-4abe-878d-9194de6fcc27.jpg?1749301977",
+    "mana_cost": "{W}",
+    "cmc": 1.0,
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "rarity": "rare",
+    "type_line": "Creature — Human Cleric",
+    "count": 4
+  },
+  "Ocelot Pride": {
+    "name": "Ocelot Pride",
+    "image_uris": "https://cards.scryfall.io/normal/front/8/9/89cf6f57-230f-497e-a14e-ad1e8737fd42.jpg?1717011506",
+    "mana_cost": "{W}",
+    "cmc": 1.0,
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "rarity": "mythic",
+    "type_line": "Creature — Cat",
+    "count": 4
+  },
+  "Ragavan, Nimble Pilferer": {
+    "name": "Ragavan, Nimble Pilferer",
+    "image_uris": "https://cards.scryfall.io/normal/front/a/9/a9738cda-adb1-47fb-9f4c-ecd930228c4d.jpg?1681963138",
+    "mana_cost": "{R}",
+    "cmc": 1.0,
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "rarity": "mythic",
+    "type_line": "Legendary Creature — Monkey Pirate",
+    "count": 4
+  },
+  "Sacred Foundry": {
+    "name": "Sacred Foundry",
+    "image_uris": "https://cards.scryfall.io/normal/front/8/b/8b4e2642-3c87-4708-b9b4-2e7f7359ac7d.jpg?1752947600",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "colors": [],
+    "color_identity": [
+      "R",
+      "W"
+    ],
+    "rarity": "rare",
+    "type_line": "Land — Mountain Plains",
+    "count": 4
+  },
+  "Seasoned Pyromancer": {
+    "name": "Seasoned Pyromancer",
+    "image_uris": "https://cards.scryfall.io/normal/front/1/4/1427f615-8430-426e-a669-f9fe12033ac4.jpg?1673147897",
+    "mana_cost": "{1}{R}{R}",
+    "cmc": 3.0,
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "rarity": "mythic",
+    "type_line": "Creature — Human Shaman",
+    "count": 4
+  },
+  "Expedition Map": {
+    "name": "Expedition Map",
+    "image_uris": "https://cards.scryfall.io/normal/front/0/8/08e66835-c228-48fa-bcaa-eb96edbd4f5a.jpg?1730572768",
+    "mana_cost": "{1}",
+    "cmc": 1.0,
+    "colors": [],
+    "color_identity": [],
+    "rarity": "common",
+    "type_line": "Artifact",
+    "count": 4
+  },
+  "Karn, the Great Creator": {
+    "name": "Karn, the Great Creator",
+    "image_uris": "https://cards.scryfall.io/normal/front/d/e/deb3721d-fba1-444f-8b31-1cd10c94c4a0.jpg?1702429246",
+    "mana_cost": "{4}",
+    "cmc": 4.0,
+    "colors": [],
+    "color_identity": [],
+    "rarity": "mythic",
+    "type_line": "Legendary Planeswalker — Karn",
+    "count": 4
+  },
+  "Sowing Mycospawn": {
+    "name": "Sowing Mycospawn",
+    "image_uris": "https://cards.scryfall.io/normal/front/c/d/cdfadb17-76ad-4d4d-9fa7-33c4b88b4c0a.jpg?1743419005",
+    "mana_cost": "{3}{G}",
+    "cmc": 4.0,
+    "colors": [],
+    "color_identity": [
+      "G"
+    ],
+    "rarity": "rare",
+    "type_line": "Creature — Eldrazi Fungus",
+    "count": 4
+  },
+  "Urza's Mine": {
+    "name": "Urza's Mine",
+    "image_uris": "https://cards.scryfall.io/normal/front/3/9/396bbb7d-ae61-4d8d-b931-9ed2f712832e.jpg?1690006804",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "colors": [],
+    "color_identity": [],
+    "rarity": "common",
+    "type_line": "Land — Urza's Mine",
+    "count": 4
+  },
+  "Urza's Power Plant": {
+    "name": "Urza's Power Plant",
+    "image_uris": "https://cards.scryfall.io/normal/front/b/0/b0449a19-37f7-4169-9e32-928db5ec76fe.jpg?1690006818",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "colors": [],
+    "color_identity": [],
+    "rarity": "common",
+    "type_line": "Land — Urza's Power-Plant",
+    "count": 4
+  },
+  "Urza's Tower": {
+    "name": "Urza's Tower",
+    "image_uris": "https://cards.scryfall.io/normal/front/1/e/1e9f09b3-dd2d-4ba9-a57e-4f3c1793f752.jpg?1690006831",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "colors": [],
+    "color_identity": [],
+    "rarity": "common",
+    "type_line": "Land — Urza's Tower",
+    "count": 4
+  },
+  "Mystical Dispute": {
+    "name": "Mystical Dispute",
+    "image_uris": "https://cards.scryfall.io/normal/front/f/b/fbe04cb8-a8b9-4241-baae-b398a2509a3a.jpg?1572489956",
+    "mana_cost": "{2}{U}",
+    "cmc": 3.0,
+    "colors": [
+      "U"
+    ],
+    "color_identity": [
+      "U"
+    ],
+    "rarity": "uncommon",
+    "type_line": "Instant",
+    "count": 4
+  },
+  "Disrupting Shoal": {
+    "name": "Disrupting Shoal",
+    "image_uris": "https://cards.scryfall.io/normal/front/b/4/b46b20c4-f69b-45ed-8c9e-50847f215e73.jpg?1722062492",
+    "mana_cost": "{X}{U}{U}",
+    "cmc": 2.0,
+    "colors": [
+      "U"
+    ],
+    "color_identity": [
+      "U"
+    ],
+    "rarity": "rare",
+    "type_line": "Instant — Arcane",
+    "count": 4
+  },
+  "Fallaji Archaeologist": {
+    "name": "Fallaji Archaeologist",
+    "image_uris": "https://cards.scryfall.io/normal/front/b/0/b0eab397-25a6-4377-8e12-e8acef9675cf.jpg?1674420492",
+    "mana_cost": "{1}{U}",
+    "cmc": 2.0,
+    "colors": [
+      "U"
+    ],
+    "color_identity": [
+      "U"
+    ],
+    "rarity": "common",
+    "type_line": "Creature — Human Scout",
+    "count": 4
+  },
+  "Goblin Charbelcher": {
+    "name": "Goblin Charbelcher",
+    "image_uris": "https://cards.scryfall.io/normal/front/2/4/240344ff-404d-4894-a6e9-4401cd68cf50.jpg?1592764888",
+    "mana_cost": "{4}",
+    "cmc": 4.0,
+    "colors": [],
+    "color_identity": [],
+    "rarity": "rare",
+    "type_line": "Artifact",
+    "count": 4
+  },
+  "Hydroelectric Specimen": {
+    "name": "Hydroelectric Specimen // Hydroelectric Laboratory",
+    "image_uris": null,
+    "mana_cost": null,
+    "cmc": 3.0,
+    "colors": null,
+    "color_identity": [
+      "U"
+    ],
+    "rarity": "uncommon",
+    "type_line": "Creature — Weird // Land",
+    "count": 4
+  },
+  "Jwari Disruption": {
+    "name": "Jwari Disruption // Jwari Ruins",
+    "image_uris": null,
+    "mana_cost": null,
+    "cmc": 2.0,
+    "colors": null,
+    "color_identity": [
+      "U"
+    ],
+    "rarity": "uncommon",
+    "type_line": "Instant // Land",
+    "count": 4
+  },
+  "Lotus Bloom": {
+    "name": "Lotus Bloom",
+    "image_uris": "https://cards.scryfall.io/normal/front/d/b/db89ae4d-1cc2-41d8-a4de-a54b958c4429.jpg?1619398986",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "colors": [],
+    "color_identity": [],
+    "rarity": "rare",
+    "type_line": "Artifact",
+    "count": 4
+  },
+  "Sea Gate Restoration": {
+    "name": "Sea Gate Restoration // Sea Gate, Reborn",
+    "image_uris": null,
+    "mana_cost": null,
+    "cmc": 7.0,
+    "colors": null,
+    "color_identity": [
+      "U"
+    ],
+    "rarity": "mythic",
+    "type_line": "Sorcery // Land",
+    "count": 4
+  },
+  "Sink into Stupor": {
+    "name": "Sink into Stupor // Soporific Springs",
+    "image_uris": null,
+    "mana_cost": null,
+    "cmc": 3.0,
+    "colors": null,
+    "color_identity": [
+      "U"
+    ],
+    "rarity": "uncommon",
+    "type_line": "Instant // Land",
+    "count": 4
+  },
+  "Suppression Ray": {
+    "name": "Suppression Ray // Orderly Plaza",
+    "image_uris": null,
+    "mana_cost": null,
+    "cmc": 5.0,
+    "colors": null,
+    "color_identity": [
+      "U",
+      "W"
+    ],
+    "rarity": "uncommon",
+    "type_line": "Sorcery // Land",
+    "count": 4
+  },
+  "Whir of Invention": {
+    "name": "Whir of Invention",
+    "image_uris": "https://cards.scryfall.io/normal/front/0/2/0279fd3c-9252-4958-9d7a-5f33aa25907e.jpg?1576381590",
+    "mana_cost": "{X}{U}{U}{U}",
+    "cmc": 3.0,
+    "colors": [
+      "U"
+    ],
+    "color_identity": [
+      "U"
+    ],
+    "rarity": "rare",
+    "type_line": "Instant",
+    "count": 4
+  },
+  "Forest": {
+    "name": "Forest",
+    "image_uris": "https://cards.scryfall.io/normal/front/7/b/7b6c2532-be5a-4f1f-893c-36bcda2a699d.jpg?1753472334",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "colors": [],
+    "color_identity": [
+      "G"
+    ],
+    "rarity": "common",
+    "type_line": "Basic Land — Forest",
+    "count": 3
+  },
+  "Secluded Courtyard": {
+    "name": "Secluded Courtyard",
+    "image_uris": "https://cards.scryfall.io/normal/front/d/1/d13373d2-139b-48c7-a8c9-828cefc4f150.jpg?1730489597",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "colors": [],
+    "color_identity": [],
+    "rarity": "uncommon",
+    "type_line": "Land",
+    "count": 3
+  },
+  "Null Elemental Blast": {
+    "name": "Null Elemental Blast",
+    "image_uris": "https://cards.scryfall.io/normal/front/8/e/8e259868-d29a-4c03-8ec3-49e914f849fb.jpg?1717011287",
+    "mana_cost": "{C}",
+    "cmc": 1.0,
+    "colors": [],
+    "color_identity": [],
+    "rarity": "uncommon",
+    "type_line": "Instant",
+    "count": 3
+  },
+  "Ephemerate": {
+    "name": "Ephemerate",
+    "image_uris": "https://cards.scryfall.io/normal/front/2/d/2da5f3f8-5eef-498f-ba2c-2f3fbc3745aa.jpg?1562201088",
+    "mana_cost": "{W}",
+    "cmc": 1.0,
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "rarity": "common",
+    "type_line": "Instant",
+    "count": 3
+  },
+  "Shadowy Backstreet": {
+    "name": "Shadowy Backstreet",
+    "image_uris": "https://cards.scryfall.io/normal/front/6/9/69c1b656-1d67-499c-bf0f-417682a86c7d.jpg?1706242364",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "colors": [],
+    "color_identity": [
+      "B",
+      "W"
+    ],
+    "rarity": "rare",
+    "type_line": "Land — Plains Swamp",
+    "count": 3
+  },
+  "Vindicate": {
+    "name": "Vindicate",
+    "image_uris": "https://cards.scryfall.io/normal/front/6/8/683c4e13-525c-45c9-8832-bfe67965c34e.jpg?1626100840",
+    "mana_cost": "{1}{W}{B}",
+    "cmc": 3.0,
+    "colors": [
+      "B",
+      "W"
+    ],
+    "color_identity": [
+      "B",
+      "W"
+    ],
+    "rarity": "rare",
+    "type_line": "Sorcery",
+    "count": 3
+  },
+  "Elegant Parlor": {
+    "name": "Elegant Parlor",
+    "image_uris": "https://cards.scryfall.io/normal/front/7/2/72c6d541-e2cb-4d6e-acac-90a8f53b7006.jpg?1706242338",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "colors": [],
+    "color_identity": [
+      "R",
+      "W"
+    ],
+    "rarity": "rare",
+    "type_line": "Land — Mountain Plains",
+    "count": 3
+  },
+  "Goblin Bombardment": {
+    "name": "Goblin Bombardment",
+    "image_uris": "https://cards.scryfall.io/normal/front/e/2/e262f55e-9239-4a97-a19e-9b08fb34502e.jpg?1626100483",
+    "mana_cost": "{1}{R}",
+    "cmc": 2.0,
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "rarity": "rare",
+    "type_line": "Enchantment",
+    "count": 3
+  },
+  "Celestial Purge": {
+    "name": "Celestial Purge",
+    "image_uris": "https://cards.scryfall.io/normal/front/c/d/cd38afd4-d7a4-493d-bdea-72be9a1d9a07.jpg?1562267422",
+    "mana_cost": "{1}{W}",
+    "cmc": 2.0,
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "rarity": "uncommon",
+    "type_line": "Instant",
+    "count": 3
+  },
+  "Boseiju, Who Endures": {
+    "name": "Boseiju, Who Endures",
+    "image_uris": "https://cards.scryfall.io/normal/front/2/1/2135ac5a-187b-4dc9-8f82-34e8d1603416.jpg?1654568912",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "colors": [],
+    "color_identity": [
+      "G"
+    ],
+    "rarity": "rare",
+    "type_line": "Legendary Land",
+    "count": 3
+  },
+  "Talisman of Resilience": {
+    "name": "Talisman of Resilience",
+    "image_uris": "https://cards.scryfall.io/normal/front/e/f/eff598b0-0b32-41d0-b980-584576e58626.jpg?1726285335",
+    "mana_cost": "{2}",
+    "cmc": 2.0,
+    "colors": [],
+    "color_identity": [
+      "B",
+      "G"
+    ],
+    "rarity": "uncommon",
+    "type_line": "Artifact",
+    "count": 3
+  },
+  "Flame of Anor": {
+    "name": "Flame of Anor",
+    "image_uris": "https://cards.scryfall.io/normal/front/0/4/04779a7e-b453-48b9-b392-6d6fd0b8d283.jpg?1686969766",
+    "mana_cost": "{1}{U}{R}",
+    "cmc": 3.0,
+    "colors": [
+      "R",
+      "U"
+    ],
+    "color_identity": [
+      "R",
+      "U"
+    ],
+    "rarity": "rare",
+    "type_line": "Instant",
+    "count": 3
+  },
+  "Malevolent Rumble": {
+    "name": "Malevolent Rumble",
+    "image_uris": "https://cards.scryfall.io/normal/front/a/1/a178cfe8-f9fa-4255-88d0-54a0bed079f5.jpg?1717012517",
+    "mana_cost": "{1}{G}",
+    "cmc": 2.0,
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "rarity": "common",
+    "type_line": "Sorcery",
+    "count": 3
+  },
+  "Prismatic Ending": {
+    "name": "Prismatic Ending",
+    "image_uris": "https://cards.scryfall.io/normal/front/8/2/825969b9-3c70-4fca-8cab-696e9ca7cdb2.jpg?1626093920",
+    "mana_cost": "{X}{W}",
+    "cmc": 1.0,
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "rarity": "uncommon",
+    "type_line": "Sorcery",
+    "count": 3
+  },
+  "Teferi, Time Raveler": {
+    "name": "Teferi, Time Raveler",
+    "image_uris": "https://cards.scryfall.io/normal/front/6/6/662fe50f-d75c-422c-8c6c-1f9b5c4ba21f.jpg?1702429729",
+    "mana_cost": "{1}{W}{U}",
+    "cmc": 3.0,
+    "colors": [
+      "U",
+      "W"
+    ],
+    "color_identity": [
+      "U",
+      "W"
+    ],
+    "rarity": "mythic",
+    "type_line": "Legendary Planeswalker — Teferi",
+    "count": 3
+  },
+  "Wrenn and Six": {
+    "name": "Wrenn and Six",
+    "image_uris": "https://cards.scryfall.io/normal/front/5/b/5bd498cc-a609-4457-9325-6888d59ca36f.jpg?1673149294",
+    "mana_cost": "{R}{G}",
+    "cmc": 2.0,
+    "colors": [
+      "G",
+      "R"
+    ],
+    "color_identity": [
+      "G",
+      "R"
+    ],
+    "rarity": "mythic",
+    "type_line": "Legendary Planeswalker — Wrenn",
+    "count": 3
+  },
+  "Flare of Denial": {
+    "name": "Flare of Denial",
+    "image_uris": "https://cards.scryfall.io/normal/front/7/1/71a98efb-9b0a-496b-ac21-8d70527ea544.jpg?1717470464",
+    "mana_cost": "{1}{U}{U}",
+    "cmc": 3.0,
+    "colors": [
+      "U"
+    ],
+    "color_identity": [
+      "U"
+    ],
+    "rarity": "rare",
+    "type_line": "Instant",
+    "count": 3
+  },
+  "Stern Scolding": {
+    "name": "Stern Scolding",
+    "image_uris": "https://cards.scryfall.io/normal/front/3/c/3ca1e1de-b916-445f-b3b2-0f4d0cc7ceeb.jpg?1686968311",
+    "mana_cost": "{U}",
+    "cmc": 1.0,
+    "colors": [
+      "U"
+    ],
+    "color_identity": [
+      "U"
+    ],
+    "rarity": "uncommon",
+    "type_line": "Instant",
+    "count": 3
+  },
+  "Tameshi, Reality Architect": {
+    "name": "Tameshi, Reality Architect",
+    "image_uris": "https://cards.scryfall.io/normal/front/2/6/26594b52-3e9c-4cde-88df-1f4e9e16676e.jpg?1654566985",
+    "mana_cost": "{2}{U}",
+    "cmc": 3.0,
+    "colors": [
+      "U"
+    ],
+    "color_identity": [
+      "U",
+      "W"
+    ],
+    "rarity": "rare",
+    "type_line": "Legendary Creature — Moonfolk Wizard",
+    "count": 3
+  },
+  "Grafdigger's Cage": {
+    "name": "Grafdigger's Cage",
+    "image_uris": "https://cards.scryfall.io/normal/front/0/a/0a135e09-b534-4836-9a10-3a9a4a9f8c53.jpg?1592517646",
+    "mana_cost": "{1}",
+    "cmc": 1.0,
+    "colors": [],
+    "color_identity": [],
+    "rarity": "rare",
+    "type_line": "Artifact",
+    "count": 2
+  },
+  "Aven Interrupter": {
+    "name": "Aven Interrupter",
+    "image_uris": "https://cards.scryfall.io/normal/front/d/3/d3ca43a4-d194-440f-8099-f1fa103a108d.jpg?1712355236",
+    "mana_cost": "{1}{W}{W}",
+    "cmc": 3.0,
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "rarity": "rare",
+    "type_line": "Creature — Bird Rogue",
+    "count": 2
+  },
+  "Bleachbone Verge": {
+    "name": "Bleachbone Verge",
+    "image_uris": "https://cards.scryfall.io/normal/front/5/2/52dcdabd-a186-45fe-9fee-6c0f1afeaf16.jpg?1738356877",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "colors": [],
+    "color_identity": [
+      "B",
+      "W"
+    ],
+    "rarity": "rare",
+    "type_line": "Land",
+    "count": 2
+  },
+  "Godless Shrine": {
+    "name": "Godless Shrine",
+    "image_uris": "https://cards.scryfall.io/normal/front/8/c/8c542ea4-98c3-4c2d-9066-205ab7aa697a.jpg?1752947593",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "colors": [],
+    "color_identity": [
+      "B",
+      "W"
+    ],
+    "rarity": "rare",
+    "type_line": "Land — Plains Swamp",
+    "count": 2
+  },
+  "Orcish Bowmasters": {
+    "name": "Orcish Bowmasters",
+    "image_uris": "https://cards.scryfall.io/normal/front/7/c/7c024bae-5631-4e20-ac69-df392ac9e109.jpg?1745319944",
+    "mana_cost": "{1}{B}",
+    "cmc": 2.0,
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "rarity": "rare",
+    "type_line": "Creature — Orc Archer",
+    "count": 2
+  },
+  "Recruiter of the Guard": {
+    "name": "Recruiter of the Guard",
+    "image_uris": "https://cards.scryfall.io/normal/front/8/e/8e4c6ba1-1abc-478f-9b7c-97e9e3c92fb0.jpg?1717013560",
+    "mana_cost": "{2}{W}",
+    "cmc": 3.0,
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "rarity": "mythic",
+    "type_line": "Creature — Human Soldier",
+    "count": 2
+  },
+  "Ashiok, Dream Render": {
+    "name": "Ashiok, Dream Render",
+    "image_uris": "https://cards.scryfall.io/normal/front/f/2/f2df3258-c053-48a8-974f-d80899b2cd93.jpg?1557577343",
+    "mana_cost": "{1}{U/B}{U/B}",
+    "cmc": 3.0,
+    "colors": [
+      "B",
+      "U"
+    ],
+    "color_identity": [
+      "B",
+      "U"
+    ],
+    "rarity": "uncommon",
+    "type_line": "Legendary Planeswalker — Ashiok",
+    "count": 2
+  },
+  "White Orchid Phantom": {
+    "name": "White Orchid Phantom",
+    "image_uris": "https://cards.scryfall.io/normal/front/4/f/4f8d885c-5b57-457f-a658-fd0b79cf98cc.jpg?1717011582",
+    "mana_cost": "{W}{W}",
+    "cmc": 2.0,
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "rarity": "rare",
+    "type_line": "Creature — Spirit Knight",
+    "count": 2
+  },
+  "Static Prison": {
+    "name": "Static Prison",
+    "image_uris": "https://cards.scryfall.io/normal/front/d/d/dd16222e-349c-4a2b-a7c8-8eb35a8ab332.jpg?1717011554",
+    "mana_cost": "{W}",
+    "cmc": 1.0,
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "rarity": "uncommon",
+    "type_line": "Enchantment",
+    "count": 2
+  },
+  "Thraben Charm": {
+    "name": "Thraben Charm",
+    "image_uris": "https://cards.scryfall.io/normal/front/d/d/dd28a646-f38f-4cdf-948c-969cd979e5e6.jpg?1717011565",
+    "mana_cost": "{1}{W}",
+    "cmc": 2.0,
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "rarity": "common",
+    "type_line": "Instant",
+    "count": 2
+  },
+  "Voice of Victory": {
+    "name": "Voice of Victory",
+    "image_uris": "https://cards.scryfall.io/normal/front/e/c/ec3de5f4-bb55-4ab9-995f-f3e0dc22c1bb.jpg?1743204090",
+    "mana_cost": "{1}{W}",
+    "cmc": 2.0,
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "rarity": "rare",
+    "type_line": "Creature — Human Bard",
+    "count": 2
+  },
+  "Blood Moon": {
+    "name": "Blood Moon",
+    "image_uris": "https://cards.scryfall.io/normal/front/d/0/d072e9ca-aae7-45dc-8025-3ce590bae63f.jpg?1599706217",
+    "mana_cost": "{2}{R}",
+    "cmc": 3.0,
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "rarity": "rare",
+    "type_line": "Enchantment",
+    "count": 2
+  },
+  "Ghost Vacuum": {
+    "name": "Ghost Vacuum",
+    "image_uris": "https://cards.scryfall.io/normal/front/8/a/8ac39c01-127f-4471-bc74-11a90c48e306.jpg?1726286797",
+    "mana_cost": "{1}",
+    "cmc": 1.0,
+    "colors": [],
+    "color_identity": [],
+    "rarity": "rare",
+    "type_line": "Artifact",
+    "count": 2
+  },
+  "Molten Rain": {
+    "name": "Molten Rain",
+    "image_uris": "https://cards.scryfall.io/normal/front/e/c/ecdd414b-3d9d-4347-acce-289209d09fc4.jpg?1593813519",
+    "mana_cost": "{1}{R}{R}",
+    "cmc": 3.0,
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "rarity": "uncommon",
+    "type_line": "Sorcery",
+    "count": 2
+  },
+  "Relic of Progenitus": {
+    "name": "Relic of Progenitus",
+    "image_uris": "https://cards.scryfall.io/normal/front/4/3/436cd66c-0622-43cd-8748-af4d21a2db3f.jpg?1580015265",
+    "mana_cost": "{1}",
+    "cmc": 1.0,
+    "colors": [],
+    "color_identity": [],
+    "rarity": "uncommon",
+    "type_line": "Artifact",
+    "count": 2
+  },
+  "The Stone Brain": {
+    "name": "The Stone Brain",
+    "image_uris": "https://cards.scryfall.io/normal/front/3/5/3570ebf2-a94c-4621-8808-b06e6e830c06.jpg?1674422057",
+    "mana_cost": "{2}",
+    "cmc": 2.0,
+    "colors": [],
+    "color_identity": [],
+    "rarity": "rare",
+    "type_line": "Legendary Artifact",
+    "count": 2
+  },
+  "Tormod's Crypt": {
+    "name": "Tormod's Crypt",
+    "image_uris": "https://cards.scryfall.io/normal/front/7/5/752bf493-5839-47e8-95f2-6d8201907428.jpg?1675201100",
+    "mana_cost": "{0}",
+    "cmc": 0.0,
+    "colors": [],
+    "color_identity": [],
+    "rarity": "uncommon",
+    "type_line": "Artifact",
+    "count": 2
+  },
+  "Endurance": {
+    "name": "Endurance",
+    "image_uris": "https://cards.scryfall.io/normal/front/e/b/eb0e0404-4846-4891-acfa-bd0951ecf9c6.jpg?1717470457",
+    "mana_cost": "{1}{G}{G}",
+    "cmc": 3.0,
+    "colors": [
+      "G"
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "rarity": "mythic",
+    "type_line": "Creature — Elemental Incarnation",
+    "count": 2
+  },
+  "Omnath, Locus of Creation": {
+    "name": "Omnath, Locus of Creation",
+    "image_uris": "https://cards.scryfall.io/normal/front/4/e/4e4fb50c-a81f-44d3-93c5-fa9a0b37f617.jpg?1639436752",
+    "mana_cost": "{R}{G}{W}{U}",
+    "cmc": 4.0,
+    "colors": [
+      "G",
+      "R",
+      "U",
+      "W"
+    ],
+    "color_identity": [
+      "G",
+      "R",
+      "U",
+      "W"
+    ],
+    "rarity": "mythic",
+    "type_line": "Legendary Creature — Elemental",
+    "count": 2
+  },
+  "Spell Snare": {
+    "name": "Spell Snare",
+    "image_uris": "https://cards.scryfall.io/normal/front/7/2/72122836-a2f3-4001-9f08-93a7bf011ab1.jpg?1562917785",
+    "mana_cost": "{U}",
+    "cmc": 1.0,
+    "colors": [
+      "U"
+    ],
+    "color_identity": [
+      "U"
+    ],
+    "rarity": "uncommon",
+    "type_line": "Instant",
+    "count": 2
+  },
+  "Supreme Verdict": {
+    "name": "Supreme Verdict",
+    "image_uris": "https://cards.scryfall.io/normal/front/3/8/3892f1c5-937e-4ef4-b6f9-e0c0ded070d0.jpg?1706240181",
+    "mana_cost": "{1}{W}{W}{U}",
+    "cmc": 4.0,
+    "colors": [
+      "U",
+      "W"
+    ],
+    "color_identity": [
+      "U",
+      "W"
+    ],
+    "rarity": "rare",
+    "type_line": "Sorcery",
+    "count": 2
+  },
+  "Windswept Heath": {
+    "name": "Windswept Heath",
+    "image_uris": "https://cards.scryfall.io/normal/front/b/d/bd1d13f7-fd38-4f0b-a8e0-1eac78668117.jpg?1717013102",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "colors": [],
+    "color_identity": [],
+    "rarity": "rare",
+    "type_line": "Land",
+    "count": 2
+  },
+  "Wooded Foothills": {
+    "name": "Wooded Foothills",
+    "image_uris": "https://cards.scryfall.io/normal/front/4/e/4e11ea8a-f895-438d-a3b7-f070238e4161.jpg?1717013111",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "colors": [],
+    "color_identity": [],
+    "rarity": "rare",
+    "type_line": "Land",
+    "count": 2
+  },
+  "Beyeen Veil": {
+    "name": "Beyeen Veil // Beyeen Coast",
+    "image_uris": null,
+    "mana_cost": null,
+    "cmc": 2.0,
+    "colors": null,
+    "color_identity": [
+      "U"
+    ],
+    "rarity": "uncommon",
+    "type_line": "Instant // Land",
+    "count": 2
+  },
+  "Force of Negation": {
+    "name": "Force of Negation",
+    "image_uris": "https://cards.scryfall.io/normal/front/1/8/1825a719-1b2a-4af9-9cd2-7cb497cd0317.jpg?1673147298",
+    "mana_cost": "{1}{U}{U}",
+    "cmc": 3.0,
+    "colors": [
+      "U"
+    ],
+    "color_identity": [
+      "U"
+    ],
+    "rarity": "rare",
+    "type_line": "Instant",
+    "count": 2
+  },
+  "Into the Flood Maw": {
+    "name": "Into the Flood Maw",
+    "image_uris": "https://cards.scryfall.io/normal/front/5/0/50b9575a-53d9-4df7-b86c-cda021107d3f.jpg?1721426097",
+    "mana_cost": "{U}",
+    "cmc": 1.0,
+    "colors": [
+      "U"
+    ],
+    "color_identity": [
+      "U"
+    ],
+    "rarity": "uncommon",
+    "type_line": "Instant",
+    "count": 2
+  },
+  "Flusterstorm": {
+    "name": "Flusterstorm",
+    "image_uris": "https://cards.scryfall.io/normal/front/f/9/f900eeb7-7c45-44bc-ad3a-0bbe594ecf50.jpg?1562856071",
+    "mana_cost": "{U}",
+    "cmc": 1.0,
+    "colors": [
+      "U"
+    ],
+    "color_identity": [
+      "U"
+    ],
+    "rarity": "rare",
+    "type_line": "Instant",
+    "count": 2
+  },
+  "Harbinger of the Seas": {
+    "name": "Harbinger of the Seas",
+    "image_uris": "https://cards.scryfall.io/normal/front/0/0/00212714-a410-4cbc-bf1c-f90d7d77378c.jpg?1717470489",
+    "mana_cost": "{1}{U}{U}",
+    "cmc": 3.0,
+    "colors": [
+      "U"
+    ],
+    "color_identity": [
+      "U"
+    ],
+    "rarity": "rare",
+    "type_line": "Creature — Merfolk Wizard",
+    "count": 2
+  },
+  "Stock Up": {
+    "name": "Stock Up",
+    "image_uris": "https://cards.scryfall.io/normal/front/0/a/0a786855-6eb4-42c0-a528-4842db46809d.jpg?1738356263",
+    "mana_cost": "{2}{U}",
+    "cmc": 3.0,
+    "colors": [
+      "U"
+    ],
+    "color_identity": [
+      "U"
+    ],
+    "rarity": "uncommon",
+    "type_line": "Sorcery",
+    "count": 2
+  },
+  "Suspend": {
+    "name": "Suspend",
+    "image_uris": "https://cards.scryfall.io/normal/front/4/0/40af215c-d3f7-42f0-85cd-77a3fcd919ba.jpg?1626095082",
+    "mana_cost": "{U}",
+    "cmc": 1.0,
+    "colors": [
+      "U"
+    ],
+    "color_identity": [
+      "U"
+    ],
+    "rarity": "rare",
+    "type_line": "Instant",
+    "count": 2
+  },
+  "Wastes": {
+    "name": "Wastes",
+    "image_uris": "https://cards.scryfall.io/normal/front/b/a/baf8f4f2-9f25-4cd2-8d78-1041e134aeac.jpg?1752945584",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "colors": [],
+    "color_identity": [],
+    "rarity": "common",
+    "type_line": "Basic Land",
+    "count": 1
+  },
+  "Boggart Trawler // Boggart Bog": {
+    "name": "Boggart Trawler // Boggart Bog",
+    "image_uris": null,
+    "mana_cost": null,
+    "cmc": 3.0,
+    "colors": null,
+    "color_identity": [
+      "B"
+    ],
+    "rarity": "uncommon",
+    "type_line": "Creature — Goblin // Land",
+    "count": 1
+  },
+  "Inquisition of Kozilek": {
+    "name": "Inquisition of Kozilek",
+    "image_uris": "https://cards.scryfall.io/normal/front/1/7/17f38740-20fd-4097-90f8-f0c2c2ff7281.jpg?1673147555",
+    "mana_cost": "{B}",
+    "cmc": 1.0,
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "rarity": "uncommon",
+    "type_line": "Sorcery",
+    "count": 1
+  },
+  "Swamp": {
+    "name": "Swamp",
+    "image_uris": "https://cards.scryfall.io/normal/front/5/c/5cb03b18-d74c-4c89-9539-3549d2e8ff5f.jpg?1753472286",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "colors": [],
+    "color_identity": [
+      "B"
+    ],
+    "rarity": "common",
+    "type_line": "Basic Land — Swamp",
+    "count": 1
+  },
+  "Bloodstained Mire": {
+    "name": "Bloodstained Mire",
+    "image_uris": "https://cards.scryfall.io/normal/front/5/7/579743fe-f71e-4cb2-8629-d6b02ed1591d.jpg?1717012950",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "colors": [],
+    "color_identity": [],
+    "rarity": "rare",
+    "type_line": "Land",
+    "count": 1
+  },
+  "Case of the Crimson Pulse": {
+    "name": "Case of the Crimson Pulse",
+    "image_uris": "https://cards.scryfall.io/normal/front/b/b/bb18b1de-bc08-4522-b891-6117a8271534.jpg?1706241824",
+    "mana_cost": "{2}{R}",
+    "cmc": 3.0,
+    "colors": [
+      "R"
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "rarity": "rare",
+    "type_line": "Enchantment — Case",
+    "count": 1
+  },
+  "Vexing Bauble": {
+    "name": "Vexing Bauble",
+    "image_uris": "https://cards.scryfall.io/normal/front/2/9/29f11089-658f-42e6-aeb0-09b512ad2479.jpg?1734350193",
+    "mana_cost": "{1}",
+    "cmc": 1.0,
+    "colors": [],
+    "color_identity": [],
+    "rarity": "uncommon",
+    "type_line": "Artifact",
+    "count": 1
+  },
+  "Wear // Tear": {
+    "name": "Wear // Tear",
+    "image_uris": "https://cards.scryfall.io/normal/front/e/0/e01cc65a-0e38-4f41-b9ed-796ef0355d0b.jpg?1688375953",
+    "mana_cost": "{1}{R} // {W}",
+    "cmc": 3.0,
+    "colors": [
+      "R",
+      "W"
+    ],
+    "color_identity": [
+      "R",
+      "W"
+    ],
+    "rarity": "uncommon",
+    "type_line": "Instant // Instant",
+    "count": 1
+  },
+  "Cityscape Leveler": {
+    "name": "Cityscape Leveler",
+    "image_uris": "https://cards.scryfall.io/normal/front/6/7/67a87278-4c82-4056-8354-253d86b0ef3d.jpg?1674421950",
+    "mana_cost": "{8}",
+    "cmc": 8.0,
+    "colors": [],
+    "color_identity": [],
+    "rarity": "mythic",
+    "type_line": "Artifact Creature — Construct",
+    "count": 1
+  },
+  "Engineered Explosives": {
+    "name": "Engineered Explosives",
+    "image_uris": "https://cards.scryfall.io/normal/front/4/2/420bf1e9-f2ec-4dff-b540-e64de71e58be.jpg?1599709112",
+    "mana_cost": "{X}",
+    "cmc": 0.0,
+    "colors": [],
+    "color_identity": [],
+    "rarity": "rare",
+    "type_line": "Artifact",
+    "count": 1
+  },
+  "Ensnaring Bridge": {
+    "name": "Ensnaring Bridge",
+    "image_uris": "https://cards.scryfall.io/normal/front/c/f/cf825a56-4870-463a-a2ef-eec86be891db.jpg?1599709144",
+    "mana_cost": "{3}",
+    "cmc": 3.0,
+    "colors": [],
+    "color_identity": [],
+    "rarity": "mythic",
+    "type_line": "Artifact",
+    "count": 1
+  },
+  "Haywire Mite": {
+    "name": "Haywire Mite",
+    "image_uris": "https://cards.scryfall.io/normal/front/2/8/286f4d3a-6b38-404f-aaea-a1d3694f4fe6.jpg?1726285305",
+    "mana_cost": "{1}",
+    "cmc": 1.0,
+    "colors": [],
+    "color_identity": [
+      "G"
+    ],
+    "rarity": "uncommon",
+    "type_line": "Artifact Creature — Insect",
+    "count": 1
+  },
+  "Kozilek, Butcher of Truth": {
+    "name": "Kozilek, Butcher of Truth",
+    "image_uris": "https://cards.scryfall.io/normal/front/d/2/d27cf7b7-7982-46bd-a559-7789c0e74bae.jpg?1673146904",
+    "mana_cost": "{10}",
+    "cmc": 10.0,
+    "colors": [],
+    "color_identity": [],
+    "rarity": "mythic",
+    "type_line": "Legendary Creature — Eldrazi",
+    "count": 1
+  },
+  "Liquimetal Coating": {
+    "name": "Liquimetal Coating",
+    "image_uris": "https://cards.scryfall.io/normal/front/f/6/f631447c-36e3-4d82-a658-19c9767a216b.jpg?1562276535",
+    "mana_cost": "{2}",
+    "cmc": 2.0,
+    "colors": [],
+    "color_identity": [],
+    "rarity": "uncommon",
+    "type_line": "Artifact",
+    "count": 1
+  },
+  "Mystic Forge": {
+    "name": "Mystic Forge",
+    "image_uris": "https://cards.scryfall.io/normal/front/b/c/bc0de77a-c503-4000-9eb5-aa28a5e91082.jpg?1690005636",
+    "mana_cost": "{4}",
+    "cmc": 4.0,
+    "colors": [],
+    "color_identity": [],
+    "rarity": "rare",
+    "type_line": "Artifact",
+    "count": 1
+  },
+  "Torpor Orb": {
+    "name": "Torpor Orb",
+    "image_uris": "https://cards.scryfall.io/normal/front/d/b/dbf02a38-d10d-463e-ab99-e7fd848a1bd3.jpg?1739804239",
+    "mana_cost": "{2}",
+    "cmc": 2.0,
+    "colors": [],
+    "color_identity": [],
+    "rarity": "mythic",
+    "type_line": "Artifact",
+    "count": 1
+  },
+  "Trinisphere": {
+    "name": "Trinisphere",
+    "image_uris": "https://cards.scryfall.io/normal/front/3/1/316caa4e-a53a-460b-978c-5f0fba7bc549.jpg?1745319935",
+    "mana_cost": "{3}",
+    "cmc": 3.0,
+    "colors": [],
+    "color_identity": [],
+    "rarity": "mythic",
+    "type_line": "Artifact",
+    "count": 1
+  },
+  "Walking Ballista": {
+    "name": "Walking Ballista",
+    "image_uris": "https://cards.scryfall.io/normal/front/5/2/5272436e-74f0-44c4-a291-ea8ebc3f1525.jpg?1599710252",
+    "mana_cost": "{X}{X}",
+    "cmc": 0.0,
+    "colors": [],
+    "color_identity": [],
+    "rarity": "rare",
+    "type_line": "Artifact Creature — Construct",
+    "count": 1
+  },
+  "Breeding Pool": {
+    "name": "Breeding Pool",
+    "image_uris": "https://cards.scryfall.io/normal/front/3/c/3c750d5a-f743-41ff-b5ba-02025ca0bec2.jpg?1752947580",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "colors": [],
+    "color_identity": [
+      "G",
+      "U"
+    ],
+    "rarity": "rare",
+    "type_line": "Land — Forest Island",
+    "count": 1
+  },
+  "Hallowed Fountain": {
+    "name": "Hallowed Fountain",
+    "image_uris": "https://cards.scryfall.io/normal/front/c/d/cd70adab-39db-4cc9-ae37-a342f9109bec.jpg?1702429810",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "colors": [],
+    "color_identity": [
+      "U",
+      "W"
+    ],
+    "rarity": "rare",
+    "type_line": "Land — Plains Island",
+    "count": 1
+  },
+  "Lush Portico": {
+    "name": "Lush Portico",
+    "image_uris": "https://cards.scryfall.io/normal/front/c/1/c17816e8-28b1-4295-a637-efb0e5c18873.jpg?1706242346",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "colors": [],
+    "color_identity": [
+      "G",
+      "W"
+    ],
+    "rarity": "rare",
+    "type_line": "Land — Forest Plains",
+    "count": 1
+  },
+  "Scalding Tarn": {
+    "name": "Scalding Tarn",
+    "image_uris": "https://cards.scryfall.io/normal/front/7/1/71e491c5-8c07-449b-b2f1-ffa052e6d311.jpg?1738703652",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "colors": [],
+    "color_identity": [],
+    "rarity": "rare",
+    "type_line": "Land",
+    "count": 1
+  },
+  "Steam Vents": {
+    "name": "Steam Vents",
+    "image_uris": "https://cards.scryfall.io/normal/front/6/6/66d618f4-443c-4a6c-8cbd-5d4ea96b2cd4.jpg?1702429824",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "colors": [],
+    "color_identity": [
+      "R",
+      "U"
+    ],
+    "rarity": "rare",
+    "type_line": "Land — Island Mountain",
+    "count": 1
+  },
+  "Stomping Ground": {
+    "name": "Stomping Ground",
+    "image_uris": "https://cards.scryfall.io/normal/front/6/9/69be21b4-c613-47c6-ba57-f4785861af3e.jpg?1752947608",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "colors": [],
+    "color_identity": [
+      "G",
+      "R"
+    ],
+    "rarity": "rare",
+    "type_line": "Land — Mountain Forest",
+    "count": 1
+  },
+  "Temple Garden": {
+    "name": "Temple Garden",
+    "image_uris": "https://cards.scryfall.io/normal/front/1/8/18d2e383-d380-4d18-8aad-bd8ea093a16c.jpg?1702429828",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "colors": [],
+    "color_identity": [
+      "G",
+      "W"
+    ],
+    "rarity": "rare",
+    "type_line": "Land — Forest Plains",
+    "count": 1
+  },
+  "Thundering Falls": {
+    "name": "Thundering Falls",
+    "image_uris": "https://cards.scryfall.io/normal/front/1/7/17260fff-b239-4af4-9306-3236ae3fa5a5.jpg?1706242364",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "colors": [],
+    "color_identity": [
+      "R",
+      "U"
+    ],
+    "rarity": "rare",
+    "type_line": "Land — Island Mountain",
+    "count": 1
+  },
+  "Surgical Extraction": {
+    "name": "Surgical Extraction",
+    "image_uris": "https://cards.scryfall.io/normal/front/e/1/e15d76ac-1c23-4503-8225-375ac2bf2fb6.jpg?1673147668",
+    "mana_cost": "{B/P}",
+    "cmc": 1.0,
+    "colors": [
+      "B"
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "rarity": "rare",
+    "type_line": "Instant",
+    "count": 1
+  },
+  "Razorgrass Ambush": {
+    "name": "Razorgrass Ambush // Razorgrass Field",
+    "image_uris": null,
+    "mana_cost": null,
+    "cmc": 2.0,
+    "colors": null,
+    "color_identity": [
+      "W"
+    ],
+    "rarity": "uncommon",
+    "type_line": "Instant // Land",
+    "count": 1
+  },
+  "Portable Hole": {
+    "name": "Portable Hole",
+    "image_uris": "https://cards.scryfall.io/normal/front/8/0/80fca8c0-ae3e-439e-b202-228b9f360e9a.jpg?1627702369",
+    "mana_cost": "{W}",
+    "cmc": 1.0,
+    "colors": [
+      "W"
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "rarity": "uncommon",
+    "type_line": "Artifact",
+    "count": 1
+  }
+}
