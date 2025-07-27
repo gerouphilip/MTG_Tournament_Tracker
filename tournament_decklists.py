@@ -14,90 +14,84 @@ SUPPORTED_FORMATS = [
     "EDH Draft", "Timeless", "Historic", "Explorer", "7pt Highlander", "Oathbreaker"
 ]
 
-# === Prompt for Format ===
-print("Available Tournament Formats:")
-for i, fmt in enumerate(SUPPORTED_FORMATS, start=1):
-    print(f"  {i}. {fmt}")
+def call_api(payload, output_dir):
+    headers = {
+        "Authorization": API_KEY,
+        "Content-Type": "application/json"
+    }
 
-while True:
-    user_input = input("Enter the tournament format name exactly as shown above: ").strip()
-    if user_input in SUPPORTED_FORMATS:
-        TOURNAMENT_FORMAT = user_input
-        break
-    else:
-        print("❌ Invalid format. Please try again and type exactly as shown.")
+    url = "https://topdeck.gg/api/v2/tournaments"
+    response = requests.post(url, json=payload, headers=headers)
 
-# Create output directory if it doesn't exist
-OUTPUT_DIR = os.path.join("data", TOURNAMENT_FORMAT)
-os.makedirs(OUTPUT_DIR, exist_ok=True)
+    if response.status_code == 200:
+        data = response.json()
+        print("Tournaments retrieved:", len(data))
 
-# === Request Setup ===
-headers = {
-    "Authorization": API_KEY,
-    "Content-Type": "application/json"
-}
+        for index, tournament in enumerate(data):
+            # Extract fields
+            raw_name = tournament.get("name")
+            date_raw = tournament.get("date", "")
+            tid = tournament.get("id", "")
+            fmt = tournament.get("format", "UnknownFormat")
 
-url = "https://topdeck.gg/api/v2/tournaments"
+            # Clean components
+            safe_name = re.sub(r'[^a-zA-Z0-9_\-]', '_', raw_name) if raw_name else "Unnamed_Tournament"
+            safe_date = re.sub(r'[^0-9]', '', date_raw)[:8] if date_raw else "00000000"
+            safe_tid = tid[:8] if tid else f"{index:03d}"
+            safe_format = re.sub(r'[^a-zA-Z0-9_\-]', '_', fmt)
 
-payload = {
-    "last": 1000,
-    "game": "Magic: The Gathering",
-    "format": TOURNAMENT_FORMAT,
-    "participantMin": 8,
-    "columns": ["decklist"],
-    "rounds": False
-}
+            filename = f"{safe_name}_{safe_format}_{safe_date}_{safe_tid}.json"
+            filepath = os.path.join(output_dir, filename)
 
-# === Make API Call ===
-response = requests.post(url, json=payload, headers=headers)
+            standings = tournament.get("standings", [])[:8]
 
-if response.status_code == 200:
-    data = response.json()
-    print("Tournaments retrieved:", len(data))
+            # Structure data
+            top8_info = {
+                "tournament_name": raw_name or f"Unnamed Tournament {safe_tid}",
+                "format": fmt,
+                "date": date_raw or "Unknown Date",
+                "top_8": []
+            }
 
-    for index, tournament in enumerate(data):
-        # Extract fields
-        raw_name = tournament.get("name")
-        date_raw = tournament.get("date", "")
-        tid = tournament.get("id", "")
-        fmt = tournament.get("format", "UnknownFormat")
+            has_valid_decklist = False
 
-        # Clean components
-        safe_name = re.sub(r'[^a-zA-Z0-9_\-]', '_', raw_name) if raw_name else "Unnamed_Tournament"
-        safe_date = re.sub(r'[^0-9]', '', date_raw)[:8] if date_raw else "00000000"
-        safe_tid = tid[:8] if tid else f"{index:03d}"
-        safe_format = re.sub(r'[^a-zA-Z0-9_\-]', '_', fmt)
+            for i, player in enumerate(standings, start=1):
+                deck = player.get("decklist")
 
-        filename = f"{safe_name}_{safe_format}_{safe_date}_{safe_tid}.json"
-        filepath = os.path.join(OUTPUT_DIR, filename)
+                if deck:  # non-null and non-empty
+                    has_valid_decklist = True
 
-        standings = tournament.get("standings", [])[:8]
+                player_data = {
+                    "rank": i,
+                    "decklist": deck or "No decklist available"
+                }
+                top8_info["top_8"].append(player_data)
 
-        # Structure data
-        top8_info = {
-            "tournament_name": raw_name or f"Unnamed Tournament {safe_tid}",
+            if has_valid_decklist:
+                with open(filepath, "w", encoding="utf-8") as f:
+                    json.dump(top8_info, f, indent=2)
+                print(f"✅ Saved: {filepath}")
+            else:
+                print(f"⏭️ Skipped: {safe_name} — no valid decklists.")
+
+def get_decklists_for_all_formats():
+
+    for i, fmt in enumerate(SUPPORTED_FORMATS, start=0):
+        # Create output directory if it doesn't exist
+        output_dir = os.path.join("data", fmt)
+        os.makedirs(output_dir, exist_ok=True)
+
+        payload = {
+            "last": 1000,
+            "game": "Magic: The Gathering",
             "format": fmt,
-            "date": date_raw or "Unknown Date",
-            "top_8": []
+            "participantMin": 8,
+            "columns": ["decklist"],
+            "rounds": False
         }
 
-        has_valid_decklist = False
+        call_api(payload, output_dir)
 
-        for i, player in enumerate(standings, start=1):
-            deck = player.get("decklist")
-
-            if deck:  # non-null and non-empty
-                has_valid_decklist = True
-
-            player_data = {
-                "rank": i,
-                "decklist": deck or "No decklist available"
-            }
-            top8_info["top_8"].append(player_data)
-
-        if has_valid_decklist:
-            with open(filepath, "w", encoding="utf-8") as f:
-                json.dump(top8_info, f, indent=2)
-            print(f"✅ Saved: {filepath}")
-        else:
-            print(f"⏭️ Skipped: {safe_name} — no valid decklists.")
+    # ---- Entry Point ----
+if __name__ == "__main__":
+    get_decklists_for_all_formats()
