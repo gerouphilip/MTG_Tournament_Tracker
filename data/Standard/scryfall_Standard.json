@@ -287,7 +287,9 @@
             "premodern": "legal",
             "predh": "legal"
         },
-        "games": [],
+        "games": [
+            "paper"
+        ],
         "reserved": false,
         "game_changer": false,
         "foil": true,
@@ -298,7 +300,7 @@
         ],
         "oversized": false,
         "promo": false,
-        "reprint": false,
+        "reprint": true,
         "variation": false,
         "set_id": "a1c7b891-9e96-434c-9994-be58b62b27f1",
         "set": "spm",
@@ -654,7 +656,9 @@
             "premodern": "legal",
             "predh": "legal"
         },
-        "games": [],
+        "games": [
+            "paper"
+        ],
         "reserved": false,
         "game_changer": false,
         "foil": true,
@@ -665,7 +669,7 @@
         ],
         "oversized": false,
         "promo": false,
-        "reprint": false,
+        "reprint": true,
         "variation": false,
         "set_id": "a1c7b891-9e96-434c-9994-be58b62b27f1",
         "set": "spm",
@@ -1809,7 +1813,9 @@
             "premodern": "legal",
             "predh": "legal"
         },
-        "games": [],
+        "games": [
+            "paper"
+        ],
         "reserved": false,
         "game_changer": false,
         "foil": true,
@@ -1820,7 +1826,7 @@
         ],
         "oversized": false,
         "promo": false,
-        "reprint": false,
+        "reprint": true,
         "variation": false,
         "set_id": "a1c7b891-9e96-434c-9994-be58b62b27f1",
         "set": "spm",
