@@ -20,3 +20,5 @@ process the gathered data with process_card_data.py
 Generate the wanted style of graphs or top 10 card lists with the following: cmc_distribution_no_lands_summary.py, cmc_distribution_summary.py, color_identity_no_lands_summary.py, color_identity_summary.py, or most_popular_cards_summary.py
 
 You can also search for specific cards within in a format by running card_representation.py and then inputting the format and card you are looking for. Both the format and the card name are case sensitive. 
+
+There is a GUI version of card_representation.py called card_representation_gui.py that does the same work, but also shows the card you are looking for
