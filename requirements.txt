@@ -12,3 +12,4 @@ wordcloud
 Pillow
 squarify
 requests
+matplotlib
